@@ -1,4 +1,4 @@
-## Hi there 👋
+## Сборник моих pet-проектов в области анализа данных и машинного обучения.
 
 <!--
 **DaniilML/DaniilML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
